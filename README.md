@@ -219,9 +219,9 @@ kms-sql-analysis/
 
 ## 9. 🔗 Supporting Resources
 
-- 📄 `scripts/kms_analysis.sql` – Full SQL query file  
-- 📷 `images/` folder – Import screenshots and visual assets  
-- 🔗 [Download SQL Script on Google Drive](link)
+
+- 📷 `[images/` folder – Import screenshots and visual assets](https://drive.google.com/file/d/1qpjENOJ1J1s-zBO9gx7z0IzzR5mWPa8p/view?usp=drivesdk )  
+  
 
 ---
 
