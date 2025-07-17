@@ -220,7 +220,7 @@ kms-sql-analysis/
 ## 9. 🔗 Supporting Resources
 
 
-[https://drive.google.com/file/d/1nQG90C0fMXsUYnjEb1Sg82l3tYJn4yez/view]
+![My Screenshot](https://drive.google.com/file/d/1nQG90C0fMXsUYnjEb1Sg82l3tYJn4yez/view)
   
 
 ---
