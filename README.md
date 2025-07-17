@@ -228,11 +228,11 @@ kms-sql-analysis/
 
 ## 10. 🙋‍♂️ About Me
 
-**name**  
+**Esther Olutomisin Faloore**  
 Aspiring Data Analyst passionate about using data to solve business problems and deliver impact through SQL, Excel, and storytelling.
 
 - 
-- 📧 Email: your.email@example.com
+- 📧 Email: estheroluwatomisin1@gmail.com
 
 ---
 
