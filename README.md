@@ -220,8 +220,8 @@ kms-sql-analysis/
 ## 9. 🔗 Supporting Resources
 
 
-[- 📷 `[images/` folder – Import screenshots and visual assets](https://drive.google.com/file/d/1qpjENOJ1J1s-zBO9gx7z0IzzR5mWPa8p/view?usp=drivesdk ) ](https://drive.google.com/file/d/1qpjENOJ1J1s-zBO9gx7z0IzzR5mWPa8p/view?usp=drivesdk
-) 
+![Screenshot](https://drive.google.com/uc?export=view&id=1qpjENOJ1J1s-zBO9gx7z0IzzR5mWPa8p)
+
   
 
 ---
