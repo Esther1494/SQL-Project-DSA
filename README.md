@@ -234,13 +234,3 @@ Aspiring Data Analyst passionate about using data to solve business problems and
 - 
 - 📧 Email: estheroluwatomisin1@gmail.com
 
----
-
-## 11. 📜 License
-
-This project is licensed under the **MIT License**.  
-You are free to use, share, or adapt it with attribution.
-
----
-
-**⭐ Found this project helpful? Star the repo and share with others!**
